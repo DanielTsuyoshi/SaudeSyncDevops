@@ -31,9 +31,9 @@ caso de emergência.
 ### Desenho da Arquitetura 
 ![image](https://github.com/DanielTsuyoshi/NutriAiDevops/assets/110398603/045befd2-3a2f-4d42-b105-9c1769e809a6)
 
-Serviço de Aplicativos (ou API): Para hospedar a aplicação web ou API que permitirá aos usuários interagir com o sistema e criar planos de dieta personalizados. 
+Serviço de Aplicativos (ou API): Para hospedar a aplicação web ou API que permitirá aos usuários interagir com o sistema e criar planos de saude, na qual poderão ver como está sua saúde dia a dia. 
  
-Banco de Dados em Nuvem: Utilizaremos um banco de dados em nuvem compatível, como PostgreSQL, para armazenar informações dos pacientes, planos de dieta e históricos de interações. 
+Banco de Dados em Nuvem: Utilizaremos um banco de dados em nuvem compatível, como PostgreSQL, para armazenar informações dos clientes, planos de saude e históricos de interações. 
  
 Inteligência Artificial (ChatGPT): A integração com o ChatGPT será feita por meio de API para geração de recomendações personalizadas. 
 
