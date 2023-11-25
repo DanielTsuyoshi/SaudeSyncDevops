@@ -1,7 +1,7 @@
 # SaudeSyncDevops
 
 # Integrantes
-Nome: Daniel Tsyuoshi Yamamoto  RM: 95344
+Nome: Daniel Tsuyoshi Yamamoto  RM: 95344
 
 
 Nome: Lucas Sabonaro RM: 95518
